@@ -1,0 +1,25 @@
+print("versión Cisco:")
+print("    *")
+print("   * *")
+print("  *   *      RENATA")
+print(" *     *     OLVERA")
+print("***   ***    FLORES")
+print("  *   *")
+print("  *   *")
+print("  *****")
+
+#Prueba de formato con saltos de linea
+print("con menos invocaciones de print():")
+print("    *\n   * *\n  *   *      RENATA\n *     *     OLVERA\n***   ***    FLORES")
+print("  *   *\n  *   *\n  *****")
+
+#Prueba de *2
+print("duplicado:")
+print("  RENATA OLVERA FLORES  "*2)
+print("        *        "*2)
+print("       * *       "*2)
+print("      *   *      "*2)
+print("     *     *     "*2)
+print("******     ******"*2)
+print("     *     *     "*2)
+print("     *******     "*2)
